@@ -18,8 +18,6 @@ GridGuard is an **end-to-end intelligent computer vision pipeline** that combine
 3. **Stage 3: Maintenance Dispatch** (Automated Alerts)
    - Creates structured work tickets with diagnostics
    - Recommends maintenance actions based on severity
-   - Estimates time-to-failure and dispatch urgency
-
 ---
 
 ##  Key Features
@@ -39,8 +37,6 @@ GridGuard is an **end-to-end intelligent computer vision pipeline** that combine
 - Structured work tickets
 - Equipment-specific recommendations
 - Priority-based alert routing
-- Time-to-failure estimates
-
 ---
 
 ## Performance Metrics
